@@ -2,6 +2,9 @@
 # An instance of the Contact widget.
 widget: contact
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: true
 
@@ -50,7 +53,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: ''
 
 design:
   columns: '2'
